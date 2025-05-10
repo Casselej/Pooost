@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1746787136|55195043';
+const CACHE_VERSION = '1746913983|2719223609';
 /** @type {string} */
 const CACHE_PREFIX = 'pooper-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
